@@ -16,10 +16,14 @@ Baseline CNN -> უფრო ღრმა ქსელები -> რეგუ�
 
 ---
 
+
 ##  Wandb 
 
+
 **პროექტი:** [CNN](https://wandb.ai/gsula22-free-university-of-tbilisi-/CNN)
+
 **რეპორტი:** https://wandb.ai/gsula22-free-university-of-tbilisi-/CNN/reports/---VmlldzoxNzI2MTU0MA
+
 
 ---
 
