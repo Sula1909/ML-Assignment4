@@ -1,0 +1,13 @@
+# FER dataset — download from Kaggle (too large for GitHub)
+data/train.csv
+data/test.csv
+data/icml_face_data.csv
+data/fer2013.tar.gz
+
+# Notebooks / local runtime
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+wandb/
+checkpoints/
+checkpoints_backup/
